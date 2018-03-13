@@ -61,7 +61,7 @@ MAIL_PASSWORD = "your password"
 MAIL_DEFAULT_SENDER = 'your email'
 # MAIL_SUPPRESS_SEND = True
 
-SERVER_NAME = 'localhost:8001'
+SERVER_NAME = '127.0.0.1:8001'
 SUBDOMAIN = {'forums': False, 'docs': True}
 
 # logging setting
